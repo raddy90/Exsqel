@@ -7,5 +7,5 @@
 *.mdb
 
 # Ignorar carpetas
-bin/
-obj/
+#bin/
+#obj/
