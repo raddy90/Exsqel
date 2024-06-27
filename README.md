@@ -1,1 +1,1 @@
-# Exsqel
+# Exsqel - Excel a SQL
