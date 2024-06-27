@@ -1,0 +1,11 @@
+# Ignorar archivos
+*.dll
+*.exe
+*.so
+*.dylib
+*.pdb
+*.mdb
+
+# Ignorar carpetas
+bin/
+obj/
