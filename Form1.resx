@@ -235,7 +235,7 @@
     <value>4</value>
   </data>
   <data name="txtConnectionString.Text" xml:space="preserve">
-    <value>Server=MSI\SQLEXPRESS01;Database=dbdemo;Integrated Security=SSPI</value>
+    <value>Server=MiServer\SQLEXPRESSOO;Database=dbdemo;Integrated Security=SSPI</value>
   </data>
   <data name="&gt;&gt;txtConnectionString.Name" xml:space="preserve">
     <value>txtConnectionString</value>
